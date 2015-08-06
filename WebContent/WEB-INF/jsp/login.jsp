@@ -23,7 +23,7 @@
 	margin: 16px;
 }
 </style>
-<title>Student Enrollment Login</title>
+<title>Student Registration Login</title>
 </head>
 <body>
 	<script src="jquery-1.8.3.js">
@@ -67,7 +67,7 @@
 	<div class="container">
 		<div class="jumbotron">
 			<div>
-				<h1>Welcome to Online Student Enrollment Login</h1>
+				<h1>Welcome to Online Student Registration Login</h1>
 				<p>Login to explore the complete features!</p>
 			</div>
 		</div>

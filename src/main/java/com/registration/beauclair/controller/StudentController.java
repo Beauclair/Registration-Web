@@ -45,7 +45,7 @@ public class StudentController {
   }
 
   @RequestMapping(value="/login", method=RequestMethod.GET)
-  public String login(Model model) {          
+  public String login(Model model) {     
       StudentLogin studentLogin = new StudentLogin();     
       model.addAttribute("studentLogin", studentLogin);
       return "login";
