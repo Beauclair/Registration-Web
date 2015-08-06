@@ -83,7 +83,7 @@
 						<form:form id="myForm" method="post"
 							class="bs-example form-horizontal" commandName="studentLogin">
 							<fieldset>
-								<legend>Student Enrollment Login Form</legend>
+								<legend>Student Registration Login Form</legend>
 
 								<div class="form-group">
 									<label for="userNameInput" class="col-lg-3 control-label">User
